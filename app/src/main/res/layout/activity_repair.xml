@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cole"
+    tools:context=".repair">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:background="#00BCD4"
+            android:text="BIKE REPAIR GUIDE"
+            android:textSize="30sp"
+            android:textColor="@color/black"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="74dp"
+            tools:layout_editor_absoluteY="16dp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="251dp"
+            android:layout_marginTop="20sp"
+            android:layout_height="133dp"
+            app:srcCompat="@drawable/blacko"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="74dp"
+            tools:layout_editor_absoluteY="73dp" />
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="329dp"
+            android:layout_height="42dp"
+            android:textSize="17sp"
+            android:layout_marginTop="15sp"
+            android:background="@drawable/gradient"
+            android:text="Remove and installing wheels"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="50dp"
+            tools:layout_editor_absoluteY="223dp" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="329dp"
+            android:layout_height="42dp"
+            android:layout_marginTop="15sp"
+            android:background="@drawable/gradient"
+            android:textSize="17sp"
+            android:text="Tubless tire installation"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="52dp"
+            tools:layout_editor_absoluteY="274dp" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="327dp"
+            android:layout_height="55dp"
+            android:layout_marginTop="15sp"
+            android:background="@drawable/gradient"
+            android:text="Bulkhead bushings on bulk bearing.Front"
+            android:textSize="17sp"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="54dp"
+            tools:layout_editor_absoluteY="325dp" />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="329dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="15sp"
+            android:background="@drawable/gradient"
+            android:text="Bulkhead bushings on bulk bearing.BACK"
+            android:textSize="17sp"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="51dp"
+            tools:layout_editor_absoluteY="391dp" />
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="329dp"
+            android:layout_marginTop="15sp"
+            android:layout_height="42dp"
+            android:background="@drawable/gradient"
+            android:text="Pedal replacement."
+            android:textSize="17sp"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="52dp"
+            tools:layout_editor_absoluteY="458dp" />
+
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="333dp"
+            android:layout_height="54dp"
+            android:layout_marginTop="15sp"
+            android:background="@drawable/gradient"
+            android:text="Adjust the height and angle of the saddle"
+            android:textSize="16sp"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="50dp"
+            tools:layout_editor_absoluteY="510dp" />
+
+        <Button
+            android:id="@+id/button12"
+            android:layout_width="329dp"
+            android:layout_marginTop="10sp"
+            android:layout_height="42dp"
+            android:background="@drawable/gradient"
+            android:text="Adjusting the V-brake bike"
+            android:textSize="17sp"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="51dp"
+            tools:layout_editor_absoluteY="573dp" />
+
+    </LinearLayout>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

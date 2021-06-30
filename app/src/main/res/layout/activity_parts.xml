@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mini"
+    tools:context=".Parts">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/parts_of_bicycle"
+            android:textColor="#00ffff"
+            android:textSize="40sp"
+            android:gravity="center"
+            android:fontFamily="@font/neo_latina"
+            android:layout_marginTop="20dp"/>
+        <ImageView
+            android:layout_width="450dp"
+            android:layout_height="350dp"
+            android:layout_gravity="center"
+            android:src="@drawable/partsun"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:fontFamily="@font/neo_latina"
+            android:textColor="#0000ff"
+            android:text="@string/list_of_bicycle_parts"/>
+
+
+
+        <ImageView
+            android:layout_width="330dp"
+            android:layout_height="290dp"
+            android:layout_gravity="center"
+            android:src="@drawable/wheel"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/acme"
+            android:gravity="center"
+            android:text="BICYCLE WHEELS"
+            android:textColor="#0000ff"
+            android:textSize="25sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:text="@string/Parts"/>
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="280dp"
+            android:src="@drawable/brake"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/acme"
+            android:gravity="center"
+            android:textColor="#0000ff"
+            android:text="BICYCLE BRAKE"
+            android:textSize="25sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:text="@string/yol"/>
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="280dp"
+            android:src="@drawable/frame"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/acme"
+            android:gravity="center"
+            android:textColor="#0000ff"
+            android:text="BICYCLE FRAME"
+            android:textSize="25sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:text="@string/frame"/>
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="280dp"
+            android:src="@drawable/handlebar"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/acme"
+            android:gravity="center"
+            android:textColor="#0000ff"
+            android:text="BICYCLE HANCLEBAR"
+            android:textSize="25sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="@string/handlebar"/>
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="280dp"
+            android:src="@drawable/sket"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/acme"
+            android:gravity="center"
+            android:textColor="#0000ff"
+            android:text="SPROCKET"
+            android:textSize="25sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="@string/sproket"/>
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="280dp"
+            android:src="@drawable/dela"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/acme"
+            android:textColor="#0000ff"
+            android:gravity="center"
+            android:text="DERAILLEUR GEAR"
+            android:textSize="25sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="@string/dela"/>
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="280dp"
+            android:src="@drawable/chain"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/acme"
+            android:gravity="center"
+            android:textColor="#0000ff"
+            android:text="BICYCLE CHAIN"
+            android:textSize="25sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:text="@string/chain"/>
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="280dp"
+            android:src="@drawable/bracet"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/acme"
+            android:gravity="center"
+            android:textColor="#0000ff"
+            android:text="BOTTOM BRACKET"
+            android:textSize="25sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:text="@string/bracket"/>
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="280dp"
+            android:src="@drawable/valve"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/acme"
+            android:gravity="center"
+            android:textColor="#0000ff"
+            android:text="VALVE"
+            android:textSize="25sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:text="@string/valve"/>
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="280dp"
+            android:src="@drawable/fork"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/acme"
+            android:gravity="center"
+            android:textColor="#0000ff"
+            android:text="BICYCLE FORK"
+            android:textSize="25sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:text="@string/fork"/>
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="280dp"
+            android:src="@drawable/saddle"
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/acme"
+            android:gravity="center"
+            android:textColor="#0000ff"
+            android:text="BICYCLE SADDLE"
+            android:textSize="25sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:text="@string/saddle"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/acme"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            android:text="THIS ARTICLE USES FROM THE WIKIPEDIA ARTICLE."
+            android:textSize="18sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="#ffff00"
+            android:textSize="20sp"
+            android:text="@string/partso"/>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+</ScrollView>

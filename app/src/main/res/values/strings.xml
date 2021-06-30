@@ -1,0 +1,283 @@
+<resources>
+    <string name="app_name">FinalProject-Bicycle</string>
+    <string name="about">ABOUT</string>
+    <string name="type_of_bicycle">type of bicycle</string>
+    <string name="repair_guide">REPAIR GUIDE</string>
+    <string name="accessories_and_safety_gears">ACCESSORIES AND SAFETY GEARS</string>
+    <string name="parts">PARTS</string>
+    <string name="parts_of_bicycle">Parts Of Bicycle</string>
+    <string name="wheels">wheels</string>
+
+    <string name="Parts">
+        A bicycle wheel is a wheel, most commonly a wire wheel, designed for a bicycle. A pair is often called a wheelset, especially in the context of ready built "off the shelf" performance-oriented wheels. Bicycle wheels are typically designed to fit into the frame and fork via dropouts, and hold bicycle tires
+
+
+    </string>
+
+    <string name="frame">
+         Bicycle frame is the main component of a bicycle, onto which wheels and other components are
+        fitted. The modern and most common frame design for an upright bicycle is based on the safety bicycle, and consists of two triangles:
+        a main triangle and a paired rear triangle.
+    </string>
+    <string name="handlebar">
+        A bicycle handlebar is the steering control for bicycles
+       Also handlebars also often support a portion of the riders weight, depending on their riding position, and provide a convenient mounting place for brake levers.
+    </string>
+    <string name="sproket">
+        The name Sprocket applies generally to any wheel upon which radial projections engage a chain passing over it.
+        sprocket-wheel or chainwheel is a profiled wheel with teeth, or cogs, that mesh with a chain, track or other perforated or indented material.
+    </string>
+    <string name="dela">
+        Derailleur is the mechanism that shifts the chain at the rear sprockets.On mechanical-type derailleurs, a cable is secured at a pinch bolt. The cable is pulled to move the cage inward. A return spring in the linkage will move the derailleur the opposite direction when the cable is released.
+    </string>
+    <string name="chain">
+        The bicycle chain is a roller chain that transfers power from the pedals to the drive-wheel of a bicycle, thus propelling it. Most bicycle chains are made from plain carbon or alloy steel, but some are nickel-plated to prevent rust, or simply for aesthetics.
+    </string>
+    <string name="bracket">
+        The bottom bracket on a bicycle connects the crankset (chainset) to the bicycle and allows the crankset to rotate freely. It contains a spindle to which the crankset attaches, and the bearings that allow the spindle and cranks to rotate.
+    </string>
+    <string name="valve">
+        The Presta valve is a valve commonly found in high pressure road style and some mountain bicycle inner tubes.
+    </string>
+    <string name="fork">
+        A bicycle fork is the part of a bicycle that holds the front wheel. A fork typically consists of two blades which are joined at the top by a fork crown. Above the crown, a steerer tube attaches the fork to the bicycle and the handlebars (via a stem) allowing the rider to steer the bicycle.
+    </string>
+    <string name="saddle">
+        A bicycle saddle, often called a bicycle seat,[1] is one of five contact points on an upright bicycle, the others being the two pedals and the two handles on the handlebars.
+    </string>
+    <string name="partso">
+        https://en.wikipedia.org/wiki/List_of_bicycle_parts.
+    </string>
+    <string name="list_of_bicycle_parts">LIST OF BICYCLE PARTS</string>
+    <string name="hemet">
+        A bicycle helmet is a type of helmet designed to attenuate impacts to the head of a cyclist in falls
+        while minimizing the side effects.
+    </string>
+    <string name="elbow">
+        Elbow pads are protective padded gear worn on the elbows to protect them against injury during a fall
+        or a strike.
+    </string>
+    <string name="knee">
+        Knee pads are protective gear or worn on knees to protect them against impact injury from falling
+        to the ground or hitting obstacle, or to provide padding for extended kneeling.
+    </string>
+    <string name="gloves">
+        Cycling gloves are gloves designed for cycling. They may provide warmth, comfort and protection.
+    </string>
+    <string name="tips">
+        1.Go With the Traffic Flow. Ride on the right in the same direction as other vehicles.
+2.Obey All Traffic Laws. A bicycle is a vehicle and you\'re a driver.
+3.Yield to Traffic When Appropriate.
+4.Be Predictable.
+5.Stay Alert at All Times.
+6.Look Before Turning.
+7.Watch for Parked Cars.
+    </string>
+    <string name="mountain">
+        This bike is designed with excellent braking systems and shock-absorbing features that can easily handle serious bumps, rocks, dirt trails, roots and ruts.  Mountain bikes are meant for dealing with steeper terrain which is why most of them consist of lower gears as compared to most other road bikes.
+    </string>
+    <string name="road">
+        Road bikes are designed to ride on the road, road bike also help cyclist get the most out of the road, including the particular geometry
+        of the bike, the width of the tyres, and the weight of the components.
+    </string>
+    <string name="folding">
+        Folding bikes, of which the brompton brand reigns supreme, are designed to fold up into a compact size
+        so that can you store them away. They also fit neatly into a car or hall cupboard.
+    </string>
+    <string name="bmx">
+        A BMX bike is an off-road sport bicycle used for racing and stunt racing. (BICYCLE MOTO CROSS)
+    </string>
+    <string name="utility">
+    A Utility bike is a bicycle designed for frequent short, moderately paced rides through relatively flat urban areas.
+        It is a form of utility bike commonly seen around the world.
+    </string>
+    <string name="cruiser">
+        A cruiser bike is also known as a beach cruiser of motorbike, is a bicycle that usually combines baloon tires,
+        an upright seating posture, a single speed drivetrain.
+    </string>
+    <string name="remove">
+        1. To remove the wheel from the bike, you first need to release the brake. In most cases, bicycle brakes consist of a simple mechanism by which you can release the brake manually without using tools. For example, v-brake type brakes are so easily removed.
+    </string>
+    <string name="ahe">
+        2. If you were unable to remove the brake cable the first time, it is recommended to lower both wheels.
+    </string>
+    <string name="gao">
+        3. To do this, pull the eccentric handle towards you, and on the other hand, hold the nut. Turn the knob counterclockwise until the wheel is free to move. In most cases, for the convenience of the user, “open” and “close” are written on the handle on both sides. The eccentric shaft runs through the hollow shaft and is threaded at one end. The two springs on the eccentric are narrowed inward and must be on the outside of the frame or fork. Springs are used to provide clearance when removing or installing the wheel.
+    </string>
+    <string name="ey">
+        1. Before you begin to work, apply a thin layer of lubricant along the entire length of the eccentric rod.
+
+    </string>
+    <string name="yut">
+        2. Insert the wheel axle evenly into the grooves of the fork so that the eccentric handle is on the left side of your bike. Open the handle.
+    </string>
+    <string name="lo">
+        3. Turn the eccentric handle clockwise to tighten. Halfway it must meet resistance.
+        Close the cam lever until it stops. Important: Try to leave the handle in such a position that it stands behind your left foot. This will make it easier and faster to unscrew it the next time.
+    </string>
+    <string name="yo">
+        4. Put the brake cable back in place and make sure the pads are at the same distance from the rim on both sides.
+    </string>
+    <string name="how_to_remove_the_rear_wheel_removing_the_rear_wheel_of_the_bike_is_almost_the_same_as_the_procedure_with_the_front_wheel_however_the_following_nuances_should_be_considered">How to remove the rear wheel Removing the rear wheel of the bike is almost the same as the procedure with the front wheel. However, the following nuances should be considered:</string>
+    <string name="_1_remove_the_brake_cable">1. Remove the brake cable.</string>
+    <string name="_2_adjust_the_reverse_gear_so_that_the_chain_is_on_the_smallest_star">2. Adjust the reverse gear so that the chain is on the smallest star.</string>
+    <string name="_3_loosen_the_eccentric_handle_and_carefully_remove_the_wheel">3. Loosen the eccentric handle and carefully remove the wheel.</string>
+    <string name="we">
+        1. For this you need: sealant, syringe for sealant, key for nipple, mounting, pump (compressor).
+    </string>
+    <string name="gom">
+        2. Install the nipple in the wheel rim.
+    </string>
+    <string name="ya">
+        4. Before pouring sealant, it is necessary to inflate the wheel Unscrew part of the nipple with a wrench, install the pump
+        (compressor) and pressurize until the tire cord snaps onto the rim.
+    </string>
+    <string name="ont">
+        1. You will need the tool based on what kind of sleeve you have (consider the example of Shimano sleeves).
+    </string>
+    <string name="oit">
+        We will need:
+Hex on 5
+Cone key 13, 15 and 17
+Cassette Puller
+Carriage key
+Torx on 25
+Capacity for washing bearings (ideal containers for analyzes from the pharmacy)
+Tweezers
+Flushing fluid (any degreasing agent)
+Rags or napkins
+Thick lubricant for bearings (it is more convenient to apply from a syringe)
+    </string>
+    <string name="ts">
+        4. On the right side (left side of the rotor mounting side), we begin to disassemble the bushings with a wrench at 13-17, install it on a cone and a wrench with a 17-hex wrench for 5 on the external nut.
+    </string>
+    <string name="gts">Hold the wrench at 13-17 on the cone and unscrew with the wrench at 17-Allen key 5 at the external nut counterclockwise. Unscrew the nut.
+Aa
+
+</string>
+    <string name="yow">
+         <br>Axis</br>
+         <br>Nut</br>
+ <br>Boot</br>
+<br>Cone</br>
+<br>Ball (bearing)</br>
+<br>Bearing Flange Bearing</br>
+<br>Flange</br>
+<br>Drum</br>
+<br>Consider the example of a sleeve Shimano FH-M785.,</br>
+    </string>
+    <string name="yoh">
+        <br>1. Install the whip on the cassette and unscrew the cassette nut with the ratchet puller, remove it.</br>
+
+
+<br>2. Remove the rotor from the cassette remover.</br>
+
+
+<br>3. Begin to disassemble the rear hub on the left side, set the key to 15 on the cone, and the key to the 17-hexagon to the 5 on the nut. Unscrew the nut counterclockwise.</br>
+
+
+<br>4. Unscrew the cone.</br>
+
+
+<br>5. Remove the axle from the right side.</br>
+
+
+<br>6. Remove the anthers with tweezers or a screwdriver. In order to avoid damage to the anther - a strong effort is not worth it.</br>
+
+
+<br>7. Remove the bearings in the cage, if any.</br>
+
+
+<br>8. Remove the balls (bearings) from the hub.</br>
+
+
+<br>9. Remove the boot from the drum.</br>
+
+
+<br>10. Clean the sleeve with a cloth from old grease.</br>
+
+
+<br>11. Rinse the bearings, then wipe them out with a cloth and dry.</br>
+
+
+<br>12. In order not to get confused, place the parts in order of their removal.</br>
+
+
+<br>13. After cleaning, place a small amount of grease in the sleeve.</br>
+
+
+<br>14. Place the balls in the drum and apply lubricant.</br>
+
+
+<br>15. Install the boot.</br>
+
+
+<br>16. On the left side, place the bearings; apply a small amount of lubricant over them.</br>
+
+
+<br>17. Install the boot.</br>
+
+
+<br>18. Install the axle (pre-lock the cone and nut) on the drum side.</br>
+
+
+<br>19. Twirl the cone until it contacts the bearing (you do not need to tighten it too much).</br>
+
+
+<br>20. Tighten the nut until it contacts the cone.</br>
+
+
+<br>21. Lock the cone (key 15) with a nut (key 17-Allen key 5).</br>
+
+
+<br>22. Install the rotor (with a carriage remover or torx on 25), tighten the cross-bolts evenly, and tighten the c-lock nut.</br>
+
+
+<br>23. Install the cassette and tighten it (puller for the cassette) with effort.</br>
+    </string>
+    <string name="peda">
+        <br>1. Make sure that both wheels are firmly on the ground, it will be easier to use the key lever when unscrewing.</br>
+<br> </br>
+        <br>2. Loosen the right pedal by turning the key counterclockwise. For a better stop, rotate the crank with the pedal for 3 hours.</br>
+<br> </br>
+        <br>3. The left pedal has a reverse (left-handed) thread, so it should be unscrewed in a clockwise direction. Set the connecting rod with the pedal for a better stop at 9 o\'clock.</br>
+<br> </br>
+        <br>4. Before installing new pedals, apply a thin layer of non-sticky grease to the threads.</br>
+<br> </br>
+        <br>5. Tighten the right pedal by turning the key clockwise and the left pedal by turning the key counterclockwise. Before tightening the key, spin the pedal by hand as far as possible.</br>
+    </string>
+    <string name="lqw">
+        <br><b>Proper adjustment of the height, angle and position of the saddle will help you avoid injuries and will allow you to use the bike more effectively.</b></br>
+<br> </br>
+        <br><b>Height adjustment</b></br>
+        <br>Loosen the seat post that holds the seat post in the frame.Lower the connecting rod with the pedal down, sit on the bike put your foot on the pedal and adjusts the height of the saddle so that the foot in the lower position is slightly bent. To check whether you have adjusted the height correctly, you can put the heel on the pedal - in this position, the foot below the knee joint should stand vertically straight.</br>
+<br> </br>
+        <br><b>Angle setting</b></br>
+        <br>Slightly loosen the clamp under the saddle; it usually consists of many parts, so loosen it so that the saddle can move freely in a circle. The saddle should be horizontal but you can adjust it as you like, lifting the nose of the saddle slightly up or down.</br>
+<br> </br>
+        <br><b>Horizontal position adjustment</b></br>
+        <br>he saddle has two guides that the clamp holds; this allows the saddle to move forward and backward. To properly position the seat, place the ankle joint of the foot exactly above the axis of the pedal to the connecting rod, and the pedal with the connecting rod must look straight ahead. With the correct placement of the saddle, the knee should be exactly above the pedal axis.</br>
+<br> </br>
+        <br>After setting, tighten the clamp and roll, you may have to adjust the position of the saddle several times until you find the most comfortable position.</br>
+    </string>
+    <string name="adjus">
+        <br>1. Disconnect the brake (remove the guide cable of the brake cable from the lever clamp).</br>
+<br> </br>
+        <br>2. Setting should begin with serviceable pads, make sure that they are not worn, there is a wear mark on the V-brake pads.</br>
+<br> </br>
+        <br>3. Install the pads correctly on the levers.</br>
+<br> </br>
+        <br>4. Install the pads parallel to the brake part of the rim so that they are 2-3 mm lower than the tire.</br>
+<br> </br>
+        <br>5. Install the brake cable guide arm into the arm clamp.</br>
+<br> </br>
+        <br>6. Secure the cable under the retainer so that the pads are 1-2 mm from the rim. Check that the levers move equally and the pads are at the same distance from the rim.</br>
+<br> </br>
+        <br>7. If one of the levers is more adjacent to one of the sides of the rim, screw the spring tension screw clockwise half a turn. Check the parallelism of the levers!</br>
+    </string>
+    <string name="yol">
+        A bicycle brakes are designed to push a friction-creating brake pad against
+        a braking surface on the revolving wheel by way of a hand-operated lever.
+    </string>
+    <string name="bicycle_hub_bulkhead_on_bulk_bearings_back_sleeve_layout">Bicycle hub bulkhead on bulk bearings. Back. Sleeve layout</string>
+</resources>

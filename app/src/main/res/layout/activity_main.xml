@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ice"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="MissingConstraints"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:background="@drawable/bar" />
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="300dp"
+            android:layout_height="64dp"
+            android:background="@drawable/gradient"
+            android:fontFamily="@font/audiowide"
+            android:text="@string/parts"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="30dp"
+            tools:layout_editor_absoluteY="254dp" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="320dp"
+            android:layout_height="64dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/gradient"
+            android:fontFamily="@font/audiowide"
+            android:text="@string/accessories_and_safety_gears"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="225dp"
+            tools:layout_editor_absoluteY="253dp" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="300dp"
+            android:layout_height="64dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/gradient"
+            android:fontFamily="@font/audiowide"
+            android:textColor="@color/white"
+            android:text="@string/repair_guide"
+            android:textSize="22sp"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="30dp"
+            tools:layout_editor_absoluteY="401dp" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="300dp"
+            android:layout_height="64dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/type_of_bicycle"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:fontFamily="@font/audiowide"
+            android:background="@drawable/gradient"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="225dp"
+            tools:layout_editor_absoluteY="401dp"/>
+
+
+    </LinearLayout>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

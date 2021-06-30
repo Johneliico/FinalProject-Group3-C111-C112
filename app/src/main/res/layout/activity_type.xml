@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/goe"
+    tools:context=".type">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="340dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#E91E63"
+            android:fontFamily="sans-serif-black"
+            android:gravity="center"
+            android:text="TYPE OF BICYCLE"
+            android:textColor="#00cc00"
+            android:textSize="30sp" />
+        <ImageView
+            android:layout_width="330dp"
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:src="@drawable/mounten"/>
+
+        <TextView
+            android:layout_width="360dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="#30BEFF"
+            android:fontFamily="@font/allerta"
+            android:gravity="center"
+            android:text="MOUNTAIN BIKE"
+            android:textColor="@color/black"
+            android:textSize="27sp" />
+
+        <TextView
+            android:layout_width="350dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="#A7BED1"
+            android:fontFamily="monospace"
+            android:gravity="center"
+            android:text="@string/mountain"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+        <ImageView
+            android:layout_width="330dp"
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:src="@drawable/rodb"/>
+
+        <TextView
+            android:layout_width="360dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="#30BEFF"
+            android:fontFamily="@font/allerta"
+            android:gravity="center"
+            android:text="ROAD BIKE"
+            android:textColor="@color/black"
+            android:textSize="27sp" />
+
+        <TextView
+            android:layout_width="350dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="#A7BED1"
+            android:fontFamily="monospace"
+            android:gravity="center"
+            android:text="@string/road"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+        <ImageView
+            android:layout_width="330dp"
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:src="@drawable/folde"/>
+
+        <TextView
+            android:layout_width="360dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="#30BEFF"
+            android:fontFamily="@font/allerta"
+            android:gravity="center"
+            android:text="FOLDING BIKE"
+            android:textColor="@color/black"
+            android:textSize="27sp" />
+
+        <TextView
+            android:layout_width="350dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="#A7BED1"
+            android:fontFamily="monospace"
+            android:gravity="center"
+            android:text="@string/folding"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+        <ImageView
+            android:layout_width="330dp"
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:src="@drawable/bme"/>
+
+        <TextView
+            android:layout_width="360dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="#30BEFF"
+            android:fontFamily="@font/allerta"
+            android:gravity="center"
+            android:text="BMX"
+            android:textColor="@color/black"
+            android:textSize="27sp" />
+
+        <TextView
+            android:layout_width="350dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="#A7BED1"
+            android:fontFamily="monospace"
+            android:gravity="center"
+            android:text="@string/bmx"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+        <ImageView
+            android:layout_width="330dp"
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/utili"/>
+
+        <TextView
+            android:layout_width="360dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="#30BEFF"
+            android:fontFamily="@font/allerta"
+            android:gravity="center"
+            android:text="UTILITY BIKE"
+            android:textColor="@color/black"
+            android:textSize="27sp" />
+
+        <TextView
+            android:layout_width="350dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="#A7BED1"
+            android:fontFamily="monospace"
+            android:gravity="center"
+            android:text="@string/utility"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+        <ImageView
+            android:layout_width="330dp"
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/cruiserbike"/>
+
+        <TextView
+            android:layout_width="360dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="#30BEFF"
+            android:fontFamily="@font/allerta"
+            android:gravity="center"
+            android:text="CRUISER BIKE"
+            android:textColor="@color/black"
+            android:textSize="27sp" />
+
+        <TextView
+            android:layout_width="350dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="#A7BED1"
+            android:fontFamily="monospace"
+            android:layout_marginBottom="20dp"
+            android:gravity="center"
+            android:text="@string/cruiser"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

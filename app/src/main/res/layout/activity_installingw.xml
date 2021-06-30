@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fund"
+    tools:context=".installingw">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="355dp"
+            android:layout_height="match_parent"
+            android:background="#FFC107"
+            android:fontFamily="@font/baloo"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="How to remove and install the bike wheel"
+            android:textColor="@color/black"
+            android:textSize="25sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Remove the front wheel"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:fontFamily="serif"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/remove"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:fontFamily="serif"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/ahe"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:fontFamily="serif"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/gao"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:fontFamily="serif"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Installation of front wheel"
+            android:layout_marginTop="25dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:fontFamily="serif"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/ey"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:fontFamily="serif"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/yut"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:fontFamily="serif"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/lo"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:fontFamily="serif"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/yo"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:fontFamily="serif"/>
+
+        <TextView
+            android:layout_width="390dp"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:background="#8BC34A"
+            android:fontFamily="serif"
+            android:gravity="center"
+            android:text="@string/how_to_remove_the_rear_wheel_removing_the_rear_wheel_of_the_bike_is_almost_the_same_as_the_procedure_with_the_front_wheel_however_the_following_nuances_should_be_considered"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:textSize="25sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/_1_remove_the_brake_cable"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:fontFamily="serif"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/_2_adjust_the_reverse_gear_so_that_the_chain_is_on_the_smallest_star"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:fontFamily="serif"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/_3_loosen_the_eccentric_handle_and_carefully_remove_the_wheel"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:fontFamily="serif"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Installing the rear wheel"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="27sp"
+            android:gravity="center"
+            android:fontFamily="serif"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="1. When installing, place the chain back on the smallest star."
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="27sp"
+            android:gravity="center"
+            android:fontFamily="serif"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="2. Insert the wheel axle evenly up into the frame grooves."
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="27sp"
+            android:gravity="center"
+            android:fontFamily="serif"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="3. Tighten the eccentric handle on the same principle as on the front wheel - closer to the left foot."
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="27sp"
+            android:gravity="center"
+            android:fontFamily="serif"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="4. Install the brake cable in place and make sure that the pads are located exactly near the rim."
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="27sp"
+            android:gravity="center"
+            android:fontFamily="serif"
+            android:layout_marginBottom="20dp"/>
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

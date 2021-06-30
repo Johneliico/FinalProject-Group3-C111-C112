@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/shapshap"
+    tools:context=".access">
+
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical">
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:text="BICYCLE ACCESSORIES $ SAFETY GEARS"
+           android:gravity="center"
+           android:textColor="#34013f"
+           android:textSize="30sp"
+           android:fontFamily="@font/neo_latina"/>
+
+       <ImageView
+           android:layout_width="match_parent"
+           android:layout_height="239dp"
+           android:background="@drawable/bord"
+           android:layout_marginTop="15dp"
+           android:src="@drawable/aces" />
+
+       <TextView
+           android:layout_width="368dp"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="65dp"
+           android:textColor="#000080"
+           android:layout_marginTop="15dp"
+           android:fontFamily="@font/neo_latina"
+           android:text="BICYCLE BAG"
+           android:textSize="25sp" />
+
+       <ImageView
+           android:layout_width="210dp"
+           android:layout_height="165dp"
+           android:layout_gravity="center"
+           android:layout_marginTop="15dp"
+           android:background="@drawable/bord"
+           android:src="@drawable/bbag" />
+       <TextView
+           android:layout_width="368dp"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="65dp"
+           android:textColor="#000080"
+           android:layout_marginTop="15dp"
+           android:fontFamily="@font/neo_latina"
+           android:text="BICYCLE PATCHKIT"
+           android:textSize="25sp" />
+
+       <ImageView
+           android:layout_width="210dp"
+           android:layout_height="165dp"
+           android:layout_gravity="center"
+           android:layout_marginTop="15dp"
+           android:background="@drawable/bord"
+           android:src="@drawable/patchkit" />
+       <TextView
+           android:layout_width="368dp"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="65dp"
+           android:textColor="#000080"
+           android:layout_marginTop="15dp"
+           android:fontFamily="@font/neo_latina"
+           android:text="BICYCLE FRONTLIGHT"
+           android:textSize="25sp" />
+
+       <ImageView
+           android:layout_width="210dp"
+           android:layout_height="165dp"
+           android:layout_gravity="center"
+           android:layout_marginTop="15dp"
+           android:background="@drawable/bord"
+           android:src="@drawable/frontlight"/>
+       <TextView
+           android:layout_width="368dp"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="65dp"
+           android:textColor="#000080"
+           android:layout_marginTop="15dp"
+           android:fontFamily="@font/neo_latina"
+           android:text="WATER BOTTLE"
+           android:textSize="25sp" />
+
+       <ImageView
+           android:layout_width="210dp"
+           android:layout_height="165dp"
+           android:layout_gravity="center"
+           android:layout_marginTop="15dp"
+           android:background="@drawable/bord"
+           android:src="@drawable/waterbottle" />
+       <TextView
+           android:layout_width="368dp"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="65dp"
+           android:textColor="#000080"
+           android:layout_marginTop="15dp"
+           android:fontFamily="@font/neo_latina"
+           android:text="BICYCLE TOOLS"
+           android:textSize="25sp" />
+
+       <ImageView
+           android:layout_width="210dp"
+           android:layout_height="165dp"
+           android:layout_gravity="center"
+           android:layout_marginTop="15dp"
+           android:background="@drawable/bord"
+           android:src="@drawable/tools" />
+
+       <TextView
+           android:layout_width="368dp"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="65dp"
+           android:layout_marginTop="15dp"
+           android:textColor="#000080"
+           android:fontFamily="@font/neo_latina"
+           android:text="PHONE HOLDER"
+           android:textSize="25sp" />
+
+       <ImageView
+           android:layout_width="210dp"
+           android:layout_height="165dp"
+           android:layout_gravity="center"
+           android:layout_marginTop="15dp"
+           android:background="@drawable/bord"
+           android:src="@drawable/phoni" />
+       <TextView
+           android:layout_width="368dp"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="65dp"
+           android:layout_marginTop="15dp"
+           android:textColor="#000080"
+           android:fontFamily="@font/neo_latina"
+           android:text="BOTTLE CAGE"
+           android:textSize="25sp" />
+
+       <ImageView
+           android:layout_width="210dp"
+           android:layout_height="165dp"
+           android:layout_gravity="center"
+           android:layout_marginTop="15dp"
+           android:background="@drawable/bord"
+           android:src="@drawable/cage" />
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_marginTop="20dp"
+           android:text=" SAFETY GEARS and SAFETY TIPS"
+           android:gravity="center"
+           android:textColor="#ff0000"
+           android:textSize="27sp"
+           android:fontFamily="@font/neo_latina"/>
+       <ImageView
+           android:layout_width="210dp"
+           android:layout_height="175dp"
+           android:layout_gravity="center"
+           android:layout_marginTop="15dp"
+           android:background="@drawable/bord"
+           android:src="@drawable/helmet" />
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:text="HELMET"
+           android:textColor="#0000cd"
+           android:textSize="25sp"
+           android:gravity="center"
+           android:fontFamily="serif"/>
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:text="@string/hemet"
+           android:textSize="20sp"
+           android:textColor="@color/black"
+           android:fontFamily="serif"/>
+       <ImageView
+           android:layout_width="210dp"
+           android:layout_height="175dp"
+           android:layout_gravity="center"
+           android:layout_marginTop="15dp"
+           android:background="@drawable/bord"
+           android:src="@drawable/elbow" />
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:textColor="#0000cd"
+           android:text="BICYCLE ELBOW GUARD"
+           android:textSize="25sp"
+           android:gravity="center"
+           android:fontFamily="serif"/>
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:textColor="@color/black"
+           android:text="@string/elbow"
+           android:textSize="20sp"
+           android:fontFamily="serif"/>
+       <ImageView
+           android:layout_width="210dp"
+           android:layout_height="175dp"
+           android:layout_gravity="center"
+           android:layout_marginTop="15dp"
+           android:background="@drawable/bord"
+           android:src="@drawable/knee" />
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:text="BICYCLE KNEEPADS"
+           android:textColor="#0000cd"
+           android:textSize="25sp"
+           android:gravity="center"
+           android:fontFamily="serif"/>
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:text="@string/knee"
+           android:textColor="@color/black"
+           android:textSize="20sp"
+           android:fontFamily="serif"/>
+       <ImageView
+           android:layout_width="210dp"
+           android:layout_height="175dp"
+           android:layout_gravity="center"
+           android:layout_marginTop="15dp"
+           android:background="@drawable/bord"
+           android:src="@drawable/gloves" />
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:text="BICYCLE GLOVES"
+           android:textColor="#0000cd"
+           android:textSize="25sp"
+           android:gravity="center"
+           android:fontFamily="serif"/>
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:text="@string/gloves"
+           android:textColor="@color/black"
+           android:textSize="20sp"
+           android:fontFamily="serif"/>
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_marginTop="20sp"
+           android:textSize="25sp"
+           android:gravity="center"
+           android:textColor="#ff0000"
+           android:text="SAFETY TIPS FOR BIKING"
+           android:fontFamily="@font/neo_latina"/>
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_marginTop="20sp"
+           android:textSize="20sp"
+           android:textColor="#8b008b"
+           android:gravity="center"
+           android:fontFamily="monospace"
+           android:text="1.Go With the Traffic Flow. Ride on the right in the same direction as other vehicles."/>
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_marginTop="20sp"
+           android:textSize="20sp"
+           android:gravity="center"
+           android:textColor="#8b008b"
+           android:fontFamily="monospace"
+           android:text="2.Obey All Traffic Laws. A bicycle is a vehicle and you're a driver. "/>
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_marginTop="20sp"
+           android:textSize="20sp"
+           android:gravity="center"
+           android:textColor="#8b008b"
+           android:fontFamily="monospace"
+           android:text="3.Yield to Traffic When Appropriate."/>
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_marginTop="20sp"
+           android:textSize="20sp"
+           android:gravity="center"
+           android:textColor="#8b008b"
+           android:fontFamily="monospace"
+           android:text="4.Be Predictable."/>
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_marginTop="20sp"
+           android:textSize="20sp"
+           android:textColor="#8b008b"
+           android:gravity="center"
+           android:fontFamily="monospace"
+           android:text="5.Stay Alert at All Times."/>
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_marginTop="20sp"
+           android:textSize="20sp"
+           android:gravity="center"
+           android:textColor="#8b008b"
+           android:fontFamily="monospace"
+           android:text="6.Look Before Turning."/>
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_marginTop="20sp"
+           android:layout_marginBottom="40dp"
+           android:textSize="20sp"
+           android:gravity="center"
+           android:textColor="#8b008b"
+           android:fontFamily="monospace"
+           android:text="7.Watch for Parked Cars."/>
+
+
+   </LinearLayout>
+</ScrollView>
